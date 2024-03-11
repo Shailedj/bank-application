@@ -1,0 +1,25 @@
+.create{
+    margin-top: 50px;
+    
+}
+.mb-4{
+    text-align: center;
+   font-weight: bold;
+   color: cadetblue;
+}
+.create-form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .create-form label {
+    margin-bottom: 0.5rem;
+  }
+  
+  .create-form input {
+    margin-bottom: 1rem;
+  }
+  
+  .create-form button {
+    margin-top: 1rem;
+  }

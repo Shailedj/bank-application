@@ -1,0 +1,29 @@
+.div{
+    background-color: cadetblue;
+    margin: 0;
+    padding: 1% 2%;
+}
+.head{
+    float: left;
+    margin: 0 5%;
+    padding: 0;
+    background-color: cadetblue;
+}
+nav{
+    padding: 0;
+    margin: 1% 0 0 30%;
+    background-color: cadetblue;
+}
+nav a{
+    display: inline-block;
+    margin: 0 4.5%;
+    text-decoration: none;
+    font-style: inherit;
+    font-size: 130%;
+    color: beige;
+}
+nav a.active {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+  }
